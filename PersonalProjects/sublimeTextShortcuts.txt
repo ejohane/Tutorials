@@ -1,0 +1,18 @@
+command pallet 		->		ctrl shift p
+file switching 		->		ctrl p
+goto line			->		ctrl g
+find function (@)	->		ctrl r
+
+Multi Selections/Multi Cursors	-> hold control and select text
+
+Lower Case	-> ctrl kl
+Upper Case	-> ctrl ku
+
+console		-> ctrl`
+
+alignment	-> ctrl alt a
+
+dock block 	-> /** tab
+
+jquery docs	-> Just click on a jQuery Function while holding down ALT key or select a jQuery Function and press ALT+J.
+  A new window will be created in your default browser loading http://api.jquery.com/SELECTION.
